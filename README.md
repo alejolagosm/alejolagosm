@@ -10,7 +10,7 @@ I’m looking to collaborate on any project related to web development (not nece
 
 
 You can contact me by:
-- Email: fa.lagos44@uniandes.edu.co
+- Email: alejandrolagos.dev@gmail.com
 - Phone/whatsapp/Telegram: +573185740991
 - Linkedin: alejandrolagos1
 - Twitter: alejolagos12
