@@ -3,7 +3,7 @@
 I’m interested in front end development and Data Analysis/ Data science projects and currently open to all kinds of job opportunities in those fields.
 
 I’m currently learning JS frameworks (Mainly React and VueJS) and ML algorithms in Python. 
-I have competent knowledge and practice in front end development using HTML, CSS (Or SCSS, Bootstrap, among others) and of course, Vanilla JS.
+I have competent knowledge and practice in front end development using HTML, CSS (Or SCSS, Tailwind, and other CSS Frameworks) and of course, Vanilla JS.
 I have also previously worked on some Data Analysis projects using Python.
 
 I’m looking to collaborate on any project related to web development (not necessarily related to those two fields), because I believe my main strengths are to be adaptable and resourceful.
