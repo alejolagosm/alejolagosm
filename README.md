@@ -1,11 +1,10 @@
-👋 Hi, I’m Alejandro Lagos, a Colombian Civil Engineer by trade looking to reinvent myself by getting into the tech world.
+👋 Hi, I’m Alejandro Lagos, a Developer and Civil Engineer by trade.
 
-I’m interested in front end development and Data Analysis projects. Currently open to all kinds of job opportunities in those fields.
+I have competent knowledge in front end development (HTML,CSS, JS) and some of the most popular frameworks (TailwindCSS, SASS, React). 
 
-I’m currently learning Data Science and Back-End development with Nodejs. 
-I have competent knowledge and practice in front end development (HTML,CSS, JS) and some of the most popular frameworks (TailwindCSS, SASS, React). 
+Currently open to all kinds of job opportunities in those fields. 
 
-I’m looking to collaborate on any project related to web development.
+Right now I'm diving into Data Science and Back-End development with Nodejs. 
 
 
 You can contact me by:
