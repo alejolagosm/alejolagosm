@@ -2,7 +2,7 @@
 
 Currently I'm working at FluidAttacks, a cyber security company, as security developer, contributing to the development of an automated tool to search deterministic vulnerabilities in the source code. 
 
-I have experience working with Javascript and Python, using frameworks such as React and Flask.
+I have experience working with Javascript and Python, using frameworks such as React.
 
 I am passionate about front end development and design, and all things regarding data. 
 
