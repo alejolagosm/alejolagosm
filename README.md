@@ -1,23 +1,17 @@
-👋 Hi, I’m Alejandro, a developer interested in front-end and data science.
+👋 Hi, I’m Alejandro!
 
-Currently I'm working at FluidAttacks, a cyber security company, as security developer, contributing to the development of an automated tool to search deterministic vulnerabilities in the source code. 
+Developer passionate about front end development and design, and all things regarding data. 
 
-I have experience working with Javascript and Python, using frameworks such as React.
+Currently I'm working for FluidAttacks as security developer. 
+Part of the team that develops SKIMS, an open source tool to search deterministic vulnerabilities in source code. 
 
-I am passionate about front end development and design, and all things regarding data. 
-
-Recently, I have taken a deep interest in using dash to develop web applications. 
-
-I'm a self taught developer, with certifications such as DS4A Cohort 6 and Data Science from Coder House. 
-Currently, I'm studying a full-stack bootcamp at fullstackopen.com/
+I have experience working mainly with Javascript and Python.
 
 See my portfolio at alejolagos.netlify.app
 
 You can contact me by:
 - Email: alejandrolagos.dev@gmail.com
-- Phone/Whatsapp/Telegram: +573185740991
 - Linkedin: alejandrolagos1
-- Twitter: alejolagos12
 
 Thank you for reading!
 
