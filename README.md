@@ -1,20 +1,19 @@
 👋 Hi, I’m Alejandro!
 
-Developer passionate about front end development and design, and all things regarding data. 
+Engineer passionate about front-end development and all things regarding data. 
 
-Currently I'm working for FluidAttacks as security developer. 
+Currently working for [FluidAttacks](https://fluidattacks.com/) as security developer. 
 
 I'm part of the team that develops SKIMS, an open source tool to search deterministic vulnerabilities in source code. 
 
-I have experience working mainly with Javascript and Python as programming languages.
+My programming stack consists mainly of Javascript and Python, with libraries like React and all data libraries like ChartJs, Dash-Plotly, TensorFlow, among others.
 
-React, SASS, Tailwind are some of my strong points in front end development.
 
-See my portfolio at alejolagos.netlify.app
+See my [Portfolio](https://alejolagos.netlify.app/)
 
 You can contact me by:
 - Email: alejandrolagos.dev@gmail.com
-- Linkedin: alejandrolagos1
+- Linkedin: [alejandrolagos1](https://www.linkedin.com/in/alejandrolagos1/)
 
 Thank you for reading!
 
