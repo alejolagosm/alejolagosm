@@ -4,11 +4,11 @@ Engineer passionate about front-end development and all things regarding data.
 
 Currently working for [FluidAttacks](https://fluidattacks.com/) as full-stack developer. 
 
-We use React+TS for the front-end, Python, GraphQL and DynamoDB for the backend, I'm part of the team that develops an open source tool to search deterministic vulnerabilities in code (Mostly in C#, Java, ans JS) 
+We use React+TS for the front-end, Python, GraphQL and DynamoDB for the backend, I'm part of the team that develops an open source tool to search deterministic vulnerabilities in code called skims. It's fully OS so if you want to try it, check it out by searching for the company on gitlab, or contact me if you are interested.
 
 As you can see from my repositories, my main programming stack is Javascript and Python.
 
-I have in-depth knowledge and experience working with React, Typescript, and Python libraries like pandas, scikit-learn, tensorflow and dash plotly.
+I have in-depth knowledge and experience working with React, Typescript, and Python with libraries like pandas, scikit-learn, tensorflow and dash plotly.
 
 If you have some project or idea that you want to see come to life, please do not hesitate to contact me, I might be of service to you.
 
